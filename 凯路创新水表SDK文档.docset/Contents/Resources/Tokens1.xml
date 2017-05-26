@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/KRConsumptionDetailsObject.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/KRConsumptionDetailsObject</TokenIdentifier>
+			<Abstract type="html">@class KRConsumptionDetailsObject</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+            
+			
+			<NodeRef refid="1"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/setTimeId:</TokenIdentifier>
+			<Abstract type="html">时间序号
+@property timeId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSString *timeId</Declaration>
+			
+			
+			<Anchor>//api/name/timeId</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/timeId</TokenIdentifier>
+			<Abstract type="html">时间序号
+@property timeId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSString *timeId</Declaration>
+			
+			
+			<Anchor>//api/name/timeId</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRConsumptionDetailsObject/timeId</TokenIdentifier>
+			<Abstract type="html">时间序号
+@property timeId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSString *timeId</Declaration>
+			
+			
+			<Anchor>//api/name/timeId</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/setProductId:</TokenIdentifier>
+			<Abstract type="html">姓名编号
+@property productId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *productId</Declaration>
+			
+			
+			<Anchor>//api/name/productId</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/productId</TokenIdentifier>
+			<Abstract type="html">姓名编号
+@property productId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *productId</Declaration>
+			
+			
+			<Anchor>//api/name/productId</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRConsumptionDetailsObject/productId</TokenIdentifier>
+			<Abstract type="html">姓名编号
+@property productId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *productId</Declaration>
+			
+			
+			<Anchor>//api/name/productId</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/setDeviceId:</TokenIdentifier>
+			<Abstract type="html">设备id
+@property deviceId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *deviceId</Declaration>
+			
+			
+			<Anchor>//api/name/deviceId</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/deviceId</TokenIdentifier>
+			<Abstract type="html">设备id
+@property deviceId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *deviceId</Declaration>
+			
+			
+			<Anchor>//api/name/deviceId</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRConsumptionDetailsObject/deviceId</TokenIdentifier>
+			<Abstract type="html">设备id
+@property deviceId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *deviceId</Declaration>
+			
+			
+			<Anchor>//api/name/deviceId</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/setAccountId:</TokenIdentifier>
+			<Abstract type="html">账号id
+@property accountId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *accountId</Declaration>
+			
+			
+			<Anchor>//api/name/accountId</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/accountId</TokenIdentifier>
+			<Abstract type="html">账号id
+@property accountId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *accountId</Declaration>
+			
+			
+			<Anchor>//api/name/accountId</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRConsumptionDetailsObject/accountId</TokenIdentifier>
+			<Abstract type="html">账号id
+@property accountId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *accountId</Declaration>
+			
+			
+			<Anchor>//api/name/accountId</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/setAccountType:</TokenIdentifier>
+			<Abstract type="html">账户类别 1：管理员 2：普通用户
+@property accountType</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *accountType</Declaration>
+			
+			
+			<Anchor>//api/name/accountType</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/accountType</TokenIdentifier>
+			<Abstract type="html">账户类别 1：管理员 2：普通用户
+@property accountType</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *accountType</Declaration>
+			
+			
+			<Anchor>//api/name/accountType</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRConsumptionDetailsObject/accountType</TokenIdentifier>
+			<Abstract type="html">账户类别 1：管理员 2：普通用户
+@property accountType</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *accountType</Declaration>
+			
+			
+			<Anchor>//api/name/accountType</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/setUseCount:</TokenIdentifier>
+			<Abstract type="html">账号使用次数
+@property useCount</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *useCount</Declaration>
+			
+			
+			<Anchor>//api/name/useCount</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/useCount</TokenIdentifier>
+			<Abstract type="html">账号使用次数
+@property useCount</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *useCount</Declaration>
+			
+			
+			<Anchor>//api/name/useCount</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRConsumptionDetailsObject/useCount</TokenIdentifier>
+			<Abstract type="html">账号使用次数
+@property useCount</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *useCount</Declaration>
+			
+			
+			<Anchor>//api/name/useCount</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/setYkMoney:</TokenIdentifier>
+			<Abstract type="html">预扣金额 5000厘
+@property ykMoney</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *ykMoney</Declaration>
+			
+			
+			<Anchor>//api/name/ykMoney</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/ykMoney</TokenIdentifier>
+			<Abstract type="html">预扣金额 5000厘
+@property ykMoney</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *ykMoney</Declaration>
+			
+			
+			<Anchor>//api/name/ykMoney</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRConsumptionDetailsObject/ykMoney</TokenIdentifier>
+			<Abstract type="html">预扣金额 5000厘
+@property ykMoney</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *ykMoney</Declaration>
+			
+			
+			<Anchor>//api/name/ykMoney</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/setConsumeMone:</TokenIdentifier>
+			<Abstract type="html">消费金额
+@property consumeMone</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *consumeMone</Declaration>
+			
+			
+			<Anchor>//api/name/consumeMone</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/consumeMone</TokenIdentifier>
+			<Abstract type="html">消费金额
+@property consumeMone</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *consumeMone</Declaration>
+			
+			
+			<Anchor>//api/name/consumeMone</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRConsumptionDetailsObject/consumeMone</TokenIdentifier>
+			<Abstract type="html">消费金额
+@property consumeMone</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *consumeMone</Declaration>
+			
+			
+			<Anchor>//api/name/consumeMone</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/setRate:</TokenIdentifier>
+			<Abstract type="html">费率
+@property rate</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *rate</Declaration>
+			
+			
+			<Anchor>//api/name/rate</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/rate</TokenIdentifier>
+			<Abstract type="html">费率
+@property rate</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *rate</Declaration>
+			
+			
+			<Anchor>//api/name/rate</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRConsumptionDetailsObject/rate</TokenIdentifier>
+			<Abstract type="html">费率
+@property rate</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *rate</Declaration>
+			
+			
+			<Anchor>//api/name/rate</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/setMacAddress:</TokenIdentifier>
+			<Abstract type="html">Mac物理地址
+@property macAddress</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSString *macAddress</Declaration>
+			
+			
+			<Anchor>//api/name/macAddress</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/macAddress</TokenIdentifier>
+			<Abstract type="html">Mac物理地址
+@property macAddress</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSString *macAddress</Declaration>
+			
+			
+			<Anchor>//api/name/macAddress</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRConsumptionDetailsObject/macAddress</TokenIdentifier>
+			<Abstract type="html">Mac物理地址
+@property macAddress</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSString *macAddress</Declaration>
+			
+			
+			<Anchor>//api/name/macAddress</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRConsumptionDetailsObject/writeData</TokenIdentifier>
+			<Abstract type="html">清除消费账单命令，查询消费账单之后发送清除命令成功后水表进入空闲状态</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>- (NSData *)writeData</Declaration>
+			
+			<ReturnValue><Abstract type="html">清除消费命令数据</Abstract></ReturnValue>
+			<Anchor>//api/name/writeData</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

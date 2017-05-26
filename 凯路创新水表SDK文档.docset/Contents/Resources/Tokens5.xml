@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/KRWMUtils.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/KRWMUtils</TokenIdentifier>
+			<Abstract type="html">@class KRWMUtils</Abstract>
+			<DeclaredIn>KRWMUtils.h</DeclaredIn>
+            
+			
+			<NodeRef refid="5"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/KRWMUtils/isSuccessResponseWithData:</TokenIdentifier>
+			<Abstract type="html">查询响应结果是否返回正确</Abstract>
+			<DeclaredIn>KRWMUtils.h</DeclaredIn>
+			
+			<Declaration>+ (BOOL)isSuccessResponseWithData:(NSData *)data</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>data</Name>
+					<Abstract type="html">响应数据</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">YES/NO</Abstract></ReturnValue>
+			<Anchor>//api/name/isSuccessResponseWithData:</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/KRWMUtils/getErrorCodeFromData:</TokenIdentifier>
+			<Abstract type="html">提取错误码,失败的时候才有响应码</Abstract>
+			<DeclaredIn>KRWMUtils.h</DeclaredIn>
+			
+			<Declaration>+ (KRErrorCode)getErrorCodeFromData:(NSData *)data</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>data</Name>
+					<Abstract type="html">响应数据</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">KRErrorCode</Abstract></ReturnValue>
+			<Anchor>//api/name/getErrorCodeFromData:</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/KRWMUtils/getConsumptionDetailsFromData:</TokenIdentifier>
+			<Abstract type="html">解析消费详情数据</Abstract>
+			<DeclaredIn>KRWMUtils.h</DeclaredIn>
+			
+			<Declaration>+ (KRConsumptionDetailsObject *)getConsumptionDetailsFromData:(NSData *)data</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>data</Name>
+					<Abstract type="html">消费详情</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">&lt;code&gt;KRConsumptionDetailsObject&lt;/code&gt;对象，如果data为&lt;i&gt;nil&lt;/i&gt;,返回空</Abstract></ReturnValue>
+			<Anchor>//api/name/getConsumptionDetailsFromData:</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/KRWMUtils/getStateOfDeviceFromData:</TokenIdentifier>
+			<Abstract type="html">解析设备状态数据</Abstract>
+			<DeclaredIn>KRWMUtils.h</DeclaredIn>
+			
+			<Declaration>+ (KRStateObject *)getStateOfDeviceFromData:(NSData *)data</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>data</Name>
+					<Abstract type="html">设备状态数据</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">&lt;code&gt;KRStateObject&lt;/code&gt;对象，如果data为&lt;i&gt;nil&lt;/i&gt;,返回空</Abstract></ReturnValue>
+			<Anchor>//api/name/getStateOfDeviceFromData:</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

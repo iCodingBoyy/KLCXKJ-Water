@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Constants/KRErrorCode.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/c/tdef/KRErrorCode</TokenIdentifier>
+			<Abstract type="html">@enum KRErrorCode</Abstract>
+			<DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+			
+			<NodeRef refid="6"/>
+		</Token>
+		
+		
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRErrorCodeUnknownError</TokenIdentifier>
+            <Abstract type="html">未知错误</Abstract>
+            <Declaration>KRErrorCodeUnknownError</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="6"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRErrorCodePackageHeaderError</TokenIdentifier>
+            <Abstract type="html">包头错误</Abstract>
+            <Declaration>KRErrorCodePackageHeaderError</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="6"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRErrorCodePackageLengthError</TokenIdentifier>
+            <Abstract type="html">包长度错误</Abstract>
+            <Declaration>KRErrorCodePackageLengthError</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="6"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRErrorCodeNotClearConsumptionDetailsError</TokenIdentifier>
+            <Abstract type="html">未采集消费数据</Abstract>
+            <Declaration>KRErrorCodeNotClearConsumptionDetailsError</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="6"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRErrorCodeFunctionCodeError</TokenIdentifier>
+            <Abstract type="html">功能码错误</Abstract>
+            <Declaration>KRErrorCodeFunctionCodeError</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="6"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRErrorCodeDataFormatError</TokenIdentifier>
+            <Abstract type="html">数据格式错误</Abstract>
+            <Declaration>KRErrorCodeDataFormatError</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="6"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRErrorCodeCheckSumError</TokenIdentifier>
+            <Abstract type="html">校验和错误</Abstract>
+            <Declaration>KRErrorCodeCheckSumError</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="6"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRErrorCodeEndCodeError</TokenIdentifier>
+            <Abstract type="html">结束码错误</Abstract>
+            <Declaration>KRErrorCodeEndCodeError</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="6"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRErrorCodeSourceError</TokenIdentifier>
+            <Abstract type="html">来源错误</Abstract>
+            <Declaration>KRErrorCodeSourceError</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="6"/>
+        </Token>
+        
+        
+	</File>
+</Tokens>

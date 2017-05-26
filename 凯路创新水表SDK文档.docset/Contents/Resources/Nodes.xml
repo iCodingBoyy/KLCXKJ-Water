@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocSetNodes version="1.0">
+    <TOC>
+        <Node type="folder">
+            <Name>KRoadWaterMeter</Name>
+            <Path>index.html</Path>
+			<Subnodes>
+                
+				
+				<Node type="folder">
+					<Name>Classes</Name>
+					<Path>index.html</Path>
+					<Subnodes>
+						<NodeRef refid="1"/>
+						<NodeRef refid="2"/>
+						<NodeRef refid="3"/>
+						<NodeRef refid="4"/>
+						<NodeRef refid="5"/>
+						
+					</Subnodes>
+				</Node>
+				
+				
+                
+                
+				<Node>
+					<Name>Constants</Name>
+					<Path>index.html</Path>
+					<Subnodes>
+						<NodeRef refid="6"/>
+						<NodeRef refid="7"/>
+						<NodeRef refid="8"/>
+						<NodeRef refid="9"/>
+						
+					</Subnodes>
+				</Node>
+				
+                
+                <Node>
+                    <Name>Blocks</Name>
+                    <Path>index.html</Path>
+                    <Subnodes>
+                        <NodeRef refid="10"/>
+                        <NodeRef refid="11"/>
+                        <NodeRef refid="12"/>
+                        
+                    </Subnodes>
+                </Node>
+                
+			</Subnodes>
+        </Node>
+    </TOC>
+	<Library>
+		
+		<Node id="1" type="file" documentType="reference">
+            <Name>KRConsumptionDetailsObject</Name>
+            <Path>Classes/KRConsumptionDetailsObject.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Classes/KRConsumptionDetailsObject.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Classes/KRConsumptionDetailsObject.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                <Node type="section">
+                    <Path>Classes/KRConsumptionDetailsObject.html</Path>
+                    <Name>Properties</Name>
+                    <Anchor>properties</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Classes/KRConsumptionDetailsObject.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="2" type="file" documentType="reference">
+            <Name>KRRateObject</Name>
+            <Path>Classes/KRRateObject.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Classes/KRRateObject.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Classes/KRRateObject.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                <Node type="section">
+                    <Path>Classes/KRRateObject.html</Path>
+                    <Name>Properties</Name>
+                    <Anchor>properties</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Classes/KRRateObject.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="3" type="file" documentType="reference">
+            <Name>KRStateObject</Name>
+            <Path>Classes/KRStateObject.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Classes/KRStateObject.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Classes/KRStateObject.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                <Node type="section">
+                    <Path>Classes/KRStateObject.html</Path>
+                    <Name>Properties</Name>
+                    <Anchor>properties</Anchor>
+                </Node>
+                
+                
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="4" type="file" documentType="reference">
+            <Name>KRWMCore</Name>
+            <Path>Classes/KRWMCore.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Classes/KRWMCore.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Classes/KRWMCore.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                <Node type="section">
+                    <Path>Classes/KRWMCore.html</Path>
+                    <Name>Properties</Name>
+                    <Anchor>properties</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Classes/KRWMCore.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="5" type="file" documentType="reference">
+            <Name>KRWMUtils</Name>
+            <Path>Classes/KRWMUtils.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Classes/KRWMUtils.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Classes/KRWMUtils.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                
+                <Node type="section">
+                    <Path>Classes/KRWMUtils.html</Path>
+                    <Name>Class Methods</Name>
+                    <Anchor>class_methods</Anchor>
+                </Node>
+                
+                
+            </Subnodes>
+            
+        </Node>
+		
+		
+        
+        <Node id="6" type="file" documentType="reference">
+            <Name>KRErrorCode</Name>
+            <Path>Constants/KRErrorCode.html</Path>
+            
+        </Node>
+		<Node id="7" type="file" documentType="reference">
+            <Name>KRManagerState</Name>
+            <Path>Constants/KRManagerState.html</Path>
+            
+        </Node>
+		<Node id="8" type="file" documentType="reference">
+            <Name>KRSyncResponseState</Name>
+            <Path>Constants/KRSyncResponseState.html</Path>
+            
+        </Node>
+		<Node id="9" type="file" documentType="reference">
+            <Name>KRSyncType</Name>
+            <Path>Constants/KRSyncType.html</Path>
+            
+        </Node>
+		
+        <Node id="10" type="file" documentType="reference">
+            <Name>KRWMDataHandler</Name>
+            <Path>Blocks/KRWMDataHandler.html</Path>
+            
+        </Node>
+        <Node id="11" type="file" documentType="reference">
+            <Name>KRWMPeriphralsHandler</Name>
+            <Path>Blocks/KRWMPeriphralsHandler.html</Path>
+            
+        </Node>
+        <Node id="12" type="file" documentType="reference">
+            <Name>KRWMResultHandler</Name>
+            <Path>Blocks/KRWMResultHandler.html</Path>
+            
+        </Node>
+        
+	</Library>
+</DocSetNodes>

@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+
+	<title>KRSyncResponseState Constants Reference</title>
+
+	<link rel="stylesheet" href="../css/style.css">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1.4">
+	<meta name="generator" content="appledoc 2.2.1 (build 1334)">
+</head>
+<body class="appledoc">
+	<header>
+		<div class="container" class="hide-in-xcode">
+			
+			<h1 id="library-title">
+				<a href="../index.html">KRoadWaterMeter </a>
+			</h1>
+
+			<p id="developer-home">
+				<a href="../index.html">凯路创新</a>
+			</p>
+			
+		</div>
+	</header>
+
+	<aside>
+		<div class="container">
+			<nav>
+				<ul id="header-buttons" role="toolbar">
+					<li><a href="../index.html">Index</a></li>
+<li><a href="../hierarchy.html">Hierarchy</a></li>
+
+					<li id="on-this-page" role="navigation">
+						<label>
+							On This Page
+
+							<div class="chevron">
+								<div class="chevy chevron-left"></div>
+								<div class="chevy chevron-right"></div>
+							</div>
+
+							<select id="jump-to">
+	<option value="top">Jump To&#133;</option>
+	
+
+	
+
+	
+</select>
+						</label>
+					</li>
+				</ul>
+			</nav>
+		</div>
+	</aside>
+
+	<article>
+		<div id="overview_contents" class="container">
+			<div id="content">
+				<main role="main">
+					<h1 class="title">KRSyncResponseState Constants Reference</h1>
+
+					
+					<div class="section section-specification"><table cellspacing="0"><tbody>
+						<tr>
+	<th>Declared in</th>
+	<td>KRWMDefine.h</td>
+</tr>
+						</tbody></table></div>
+					
+
+                    
+
+					
+
+                    
+                    <h3 class="subsubtitle method-title">KRSyncResponseState</h3>
+                    
+					
+					<div class="section section-overview">
+                        <p>@enum KRSyncResponseState</p><p>同步响应结果</p>
+					</div>
+					
+					
+                    <div class="section">
+                        <!-- display enum values -->
+                        
+                        <h4 class="method-subtitle">Definition</h4>
+                        <code>typedef NS_ENUM(NSInteger, KRSyncResponseState ) {<br>
+                            
+                            &nbsp;&nbsp; <a href="">KRSyncResponseStateUnKnown</a> = 0,<br>
+                            
+                            &nbsp;&nbsp; <a href="">KRSyncResponseStateUnsupported</a> = 1,<br>
+                            
+                            &nbsp;&nbsp; <a href="">KRSyncResponseStateUnauthorized</a> = 2,<br>
+                            
+                            &nbsp;&nbsp; <a href="">KRSyncResponseStateResetting</a> = 3,<br>
+                            
+                            &nbsp;&nbsp; <a href="">KRSyncResponseStateNotConnected</a> = 4,<br>
+                            
+                            &nbsp;&nbsp; <a href="">KRSyncResponseStatePowerOff</a> = 5,<br>
+                            
+                            &nbsp;&nbsp; <a href="">KRSyncResponseStateDisconnect</a> = 7,<br>
+                            
+                            &nbsp;&nbsp; <a href="">KRSyncResponseStateParameterError</a> = 8,<br>
+                            
+                            &nbsp;&nbsp; <a href="">KRSyncResponseStateSynchronizing</a> = 9,<br>
+                            
+                            &nbsp;&nbsp; <a href="">KRSyncResponseStateSuccess</a> = 10,<br>
+                            
+                            &nbsp;&nbsp; <a href="">KRSyncResponseStateCheckSumError</a> = 11,<br>
+                            
+                            &nbsp;&nbsp; <a href="">KRSyncResponseStateTimeOut</a> = 12,<br>
+                            
+                            };</code>
+                    
+                    </div>
+                    
+                    <div class="section section-methods">
+                        <h4 class="method-subtitle">Constants</h4>
+                        <dl class="termdef">
+                            
+                            <dt><a name="" title="KRSyncResponseStateUnKnown"></a><code>KRSyncResponseStateUnKnown</code></dt>
+<dd>
+
+
+<p>未知类型</p>
+
+
+
+
+
+    
+	<p>
+		Declared In <code class="declared-in-ref">KRWMDefine.h</code>.
+	</p>
+	
+</dd>
+                            
+                            <dt><a name="" title="KRSyncResponseStateUnsupported"></a><code>KRSyncResponseStateUnsupported</code></dt>
+<dd>
+
+
+<p>当前设备不支持蓝牙4.0</p>
+
+
+
+
+
+    
+	<p>
+		Declared In <code class="declared-in-ref">KRWMDefine.h</code>.
+	</p>
+	
+</dd>
+                            
+                            <dt><a name="" title="KRSyncResponseStateUnauthorized"></a><code>KRSyncResponseStateUnauthorized</code></dt>
+<dd>
+
+
+<p>蓝牙未授权</p>
+
+
+
+
+
+    
+	<p>
+		Declared In <code class="declared-in-ref">KRWMDefine.h</code>.
+	</p>
+	
+</dd>
+                            
+                            <dt><a name="" title="KRSyncResponseStateResetting"></a><code>KRSyncResponseStateResetting</code></dt>
+<dd>
+
+
+<p>蓝牙重置状态</p>
+
+
+
+
+
+    
+	<p>
+		Declared In <code class="declared-in-ref">KRWMDefine.h</code>.
+	</p>
+	
+</dd>
+                            
+                            <dt><a name="" title="KRSyncResponseStateNotConnected"></a><code>KRSyncResponseStateNotConnected</code></dt>
+<dd>
+
+
+<p>蓝牙未连接</p>
+
+
+
+
+
+    
+	<p>
+		Declared In <code class="declared-in-ref">KRWMDefine.h</code>.
+	</p>
+	
+</dd>
+                            
+                            <dt><a name="" title="KRSyncResponseStatePowerOff"></a><code>KRSyncResponseStatePowerOff</code></dt>
+<dd>
+
+
+<p>蓝牙关闭，主动关闭蓝牙时回调</p>
+
+
+
+
+
+    
+	<p>
+		Declared In <code class="declared-in-ref">KRWMDefine.h</code>.
+	</p>
+	
+</dd>
+                            
+                            <dt><a name="" title="KRSyncResponseStateDisconnect"></a><code>KRSyncResponseStateDisconnect</code></dt>
+<dd>
+
+
+<p>蓝牙断开连接，主动或者被动断开都会调用</p>
+
+
+
+
+
+    
+	<p>
+		Declared In <code class="declared-in-ref">KRWMDefine.h</code>.
+	</p>
+	
+</dd>
+                            
+                            <dt><a name="" title="KRSyncResponseStateParameterError"></a><code>KRSyncResponseStateParameterError</code></dt>
+<dd>
+
+
+<p>同步参数错误</p>
+
+
+
+
+
+    
+	<p>
+		Declared In <code class="declared-in-ref">KRWMDefine.h</code>.
+	</p>
+	
+</dd>
+                            
+                            <dt><a name="" title="KRSyncResponseStateSynchronizing"></a><code>KRSyncResponseStateSynchronizing</code></dt>
+<dd>
+
+
+<p>正在同步，蓝牙正在同步时发起同步操作会返回此结果</p>
+
+
+
+
+
+    
+	<p>
+		Declared In <code class="declared-in-ref">KRWMDefine.h</code>.
+	</p>
+	
+</dd>
+                            
+                            <dt><a name="" title="KRSyncResponseStateSuccess"></a><code>KRSyncResponseStateSuccess</code></dt>
+<dd>
+
+
+<p>写数据响应成功</p>
+
+
+
+
+
+    
+	<p>
+		Declared In <code class="declared-in-ref">KRWMDefine.h</code>.
+	</p>
+	
+</dd>
+                            
+                            <dt><a name="" title="KRSyncResponseStateCheckSumError"></a><code>KRSyncResponseStateCheckSumError</code></dt>
+<dd>
+
+
+<p>数据校验出错</p>
+
+
+
+
+
+    
+	<p>
+		Declared In <code class="declared-in-ref">KRWMDefine.h</code>.
+	</p>
+	
+</dd>
+                            
+                            <dt><a name="" title="KRSyncResponseStateTimeOut"></a><code>KRSyncResponseStateTimeOut</code></dt>
+<dd>
+
+
+<p>同步响应超时</p>
+
+
+
+
+
+    
+	<p>
+		Declared In <code class="declared-in-ref">KRWMDefine.h</code>.
+	</p>
+	
+</dd>
+                            
+                        </dl>
+                    </div>
+                    
+
+                    
+                    
+
+                    
+
+                    
+                    <div class="method-subsection declared-in-section">
+                        <h4 class="method-subtitle">Declared In</h4>
+                        <p><code class="declared-in-ref">KRWMDefine.h</code></p>
+                    </div>
+                    
+                    
+                    
+                    
+          
+				</main>
+
+				<footer>
+					<div class="footer-copyright">
+						
+						<p class="copyright">Copyright &copy; 2017 凯路创新. All rights reserved. Updated: 2017-05-26</p>
+						
+						
+						<p class="generator">Generated by <a href="http://appledoc.gentlebytes.com">appledoc 2.2.1 (build 1334)</a>.</p>
+						
+					</div>
+				</footer>
+			</div>
+		</div>
+	</article>
+
+	<script src="../js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Constants/KRSyncType.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/c/tdef/KRSyncType</TokenIdentifier>
+			<Abstract type="html">@enum KRSyncType</Abstract>
+			<DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+			
+			<NodeRef refid="9"/>
+		</Token>
+		
+		
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncTypeUnknown</TokenIdentifier>
+            <Abstract type="html">未知同步类型</Abstract>
+            <Declaration>KRSyncTypeUnknown</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="9"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncTypeClearNumInfo</TokenIdentifier>
+            <Abstract type="html">清楚设备项目信息</Abstract>
+            <Declaration>KRSyncTypeClearNumInfo</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="9"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncTypeAssignNumber</TokenIdentifier>
+            <Abstract type="html">下发项目编号</Abstract>
+            <Declaration>KRSyncTypeAssignNumber</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="9"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncTypeAssginRate</TokenIdentifier>
+            <Abstract type="html">下发费率参数</Abstract>
+            <Declaration>KRSyncTypeAssginRate</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="9"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncTypeEndConsumption</TokenIdentifier>
+            <Abstract type="html">结束消费指令</Abstract>
+            <Declaration>KRSyncTypeEndConsumption</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="9"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncTypeGetStateOfDevice</TokenIdentifier>
+            <Abstract type="html">查询设备状态</Abstract>
+            <Declaration>KRSyncTypeGetStateOfDevice</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="9"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncTypeGetConsumptionDetails</TokenIdentifier>
+            <Abstract type="html">获取消费详情</Abstract>
+            <Declaration>KRSyncTypeGetConsumptionDetails</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="9"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncTypeClearConsumptionDetails</TokenIdentifier>
+            <Abstract type="html">清除消费详情</Abstract>
+            <Declaration>KRSyncTypeClearConsumptionDetails</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="9"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncTypeEnd</TokenIdentifier>
+            <Abstract type="html">同步结束</Abstract>
+            <Declaration>KRSyncTypeEnd</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="9"/>
+        </Token>
+        
+        
+	</File>
+</Tokens>

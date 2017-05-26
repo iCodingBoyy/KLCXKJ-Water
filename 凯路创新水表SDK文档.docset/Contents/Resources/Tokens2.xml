@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/KRRateObject.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/KRRateObject</TokenIdentifier>
+			<Abstract type="html">@class KRRateObject</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+            
+			
+			<NodeRef refid="2"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/setTimeId:</TokenIdentifier>
+			<Abstract type="html">时间序号 2016年11月7日12时12分12秒 格式为161107121212 如果不赋值，Getter方法可以自动生成
+@property timeId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSString *timeId</Declaration>
+			
+			
+			<Anchor>//api/name/timeId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/timeId</TokenIdentifier>
+			<Abstract type="html">时间序号 2016年11月7日12时12分12秒 格式为161107121212 如果不赋值，Getter方法可以自动生成
+@property timeId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSString *timeId</Declaration>
+			
+			
+			<Anchor>//api/name/timeId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRRateObject/timeId</TokenIdentifier>
+			<Abstract type="html">时间序号 2016年11月7日12时12分12秒 格式为161107121212 如果不赋值，Getter方法可以自动生成
+@property timeId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSString *timeId</Declaration>
+			
+			
+			<Anchor>//api/name/timeId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/setProductId:</TokenIdentifier>
+			<Abstract type="html">项目编号
+@property productId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *productId</Declaration>
+			
+			
+			<Anchor>//api/name/productId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/productId</TokenIdentifier>
+			<Abstract type="html">项目编号
+@property productId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *productId</Declaration>
+			
+			
+			<Anchor>//api/name/productId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRRateObject/productId</TokenIdentifier>
+			<Abstract type="html">项目编号
+@property productId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *productId</Declaration>
+			
+			
+			<Anchor>//api/name/productId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/setAccountId:</TokenIdentifier>
+			<Abstract type="html">账号
+@property accountId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *accountId</Declaration>
+			
+			
+			<Anchor>//api/name/accountId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/accountId</TokenIdentifier>
+			<Abstract type="html">账号
+@property accountId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *accountId</Declaration>
+			
+			
+			<Anchor>//api/name/accountId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRRateObject/accountId</TokenIdentifier>
+			<Abstract type="html">账号
+@property accountId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *accountId</Declaration>
+			
+			
+			<Anchor>//api/name/accountId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/setAccountType:</TokenIdentifier>
+			<Abstract type="html">账户类别(1：管理员2：普通用户)
+@property accountType</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *accountType</Declaration>
+			
+			
+			<Anchor>//api/name/accountType</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/accountType</TokenIdentifier>
+			<Abstract type="html">账户类别(1：管理员2：普通用户)
+@property accountType</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *accountType</Declaration>
+			
+			
+			<Anchor>//api/name/accountType</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRRateObject/accountType</TokenIdentifier>
+			<Abstract type="html">账户类别(1：管理员2：普通用户)
+@property accountType</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *accountType</Declaration>
+			
+			
+			<Anchor>//api/name/accountType</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/setUseCount:</TokenIdentifier>
+			<Abstract type="html">个人帐号使用次数
+@property useCount</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *useCount</Declaration>
+			
+			
+			<Anchor>//api/name/useCount</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/useCount</TokenIdentifier>
+			<Abstract type="html">个人帐号使用次数
+@property useCount</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *useCount</Declaration>
+			
+			
+			<Anchor>//api/name/useCount</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRRateObject/useCount</TokenIdentifier>
+			<Abstract type="html">个人帐号使用次数
+@property useCount</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *useCount</Declaration>
+			
+			
+			<Anchor>//api/name/useCount</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/setYkMoney:</TokenIdentifier>
+			<Abstract type="html">预扣金额 单位 厘（1000厘=1元）
+@property ykMoney</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *ykMoney</Declaration>
+			
+			
+			<Anchor>//api/name/ykMoney</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/ykMoney</TokenIdentifier>
+			<Abstract type="html">预扣金额 单位 厘（1000厘=1元）
+@property ykMoney</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *ykMoney</Declaration>
+			
+			
+			<Anchor>//api/name/ykMoney</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRRateObject/ykMoney</TokenIdentifier>
+			<Abstract type="html">预扣金额 单位 厘（1000厘=1元）
+@property ykMoney</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *ykMoney</Declaration>
+			
+			
+			<Anchor>//api/name/ykMoney</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/setParaTypeId:</TokenIdentifier>
+			<Abstract type="html">1 标准水表 2 阶梯收费
+@property paraTypeId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *paraTypeId</Declaration>
+			
+			
+			<Anchor>//api/name/paraTypeId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/paraTypeId</TokenIdentifier>
+			<Abstract type="html">1 标准水表 2 阶梯收费
+@property paraTypeId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *paraTypeId</Declaration>
+			
+			
+			<Anchor>//api/name/paraTypeId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRRateObject/paraTypeId</TokenIdentifier>
+			<Abstract type="html">1 标准水表 2 阶梯收费
+@property paraTypeId</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *paraTypeId</Declaration>
+			
+			
+			<Anchor>//api/name/paraTypeId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/setRate1:</TokenIdentifier>
+			<Abstract type="html">费率（500厘=0.5元）
+@property rate1</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *rate1</Declaration>
+			
+			
+			<Anchor>//api/name/rate1</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/rate1</TokenIdentifier>
+			<Abstract type="html">费率（500厘=0.5元）
+@property rate1</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *rate1</Declaration>
+			
+			
+			<Anchor>//api/name/rate1</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRRateObject/rate1</TokenIdentifier>
+			<Abstract type="html">费率（500厘=0.5元）
+@property rate1</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *rate1</Declaration>
+			
+			
+			<Anchor>//api/name/rate1</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/setRate2:</TokenIdentifier>
+			<Abstract type="html">费率（500厘=0.5元）
+@property rate1</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *rate2</Declaration>
+			
+			
+			<Anchor>//api/name/rate2</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/rate2</TokenIdentifier>
+			<Abstract type="html">费率（500厘=0.5元）
+@property rate1</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *rate2</Declaration>
+			
+			
+			<Anchor>//api/name/rate2</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRRateObject/rate2</TokenIdentifier>
+			<Abstract type="html">费率（500厘=0.5元）
+@property rate1</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *rate2</Declaration>
+			
+			
+			<Anchor>//api/name/rate2</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/setRate3:</TokenIdentifier>
+			<Abstract type="html">费率（500厘=0.5元）
+@property rate1</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *rate3</Declaration>
+			
+			
+			<Anchor>//api/name/rate3</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/rate3</TokenIdentifier>
+			<Abstract type="html">费率（500厘=0.5元）
+@property rate1</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *rate3</Declaration>
+			
+			
+			<Anchor>//api/name/rate3</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRRateObject/rate3</TokenIdentifier>
+			<Abstract type="html">费率（500厘=0.5元）
+@property rate1</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *rate3</Declaration>
+			
+			
+			<Anchor>//api/name/rate3</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/setMinTime:</TokenIdentifier>
+			<Abstract type="html">保底消费时间（分钟）
+@property minTime</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *minTime</Declaration>
+			
+			
+			<Anchor>//api/name/minTime</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/minTime</TokenIdentifier>
+			<Abstract type="html">保底消费时间（分钟）
+@property minTime</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *minTime</Declaration>
+			
+			
+			<Anchor>//api/name/minTime</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRRateObject/minTime</TokenIdentifier>
+			<Abstract type="html">保底消费时间（分钟）
+@property minTime</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *minTime</Declaration>
+			
+			
+			<Anchor>//api/name/minTime</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/setMinMoney:</TokenIdentifier>
+			<Abstract type="html">保底消费金额（元）
+@property minMoney</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *minMoney</Declaration>
+			
+			
+			<Anchor>//api/name/minMoney</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/minMoney</TokenIdentifier>
+			<Abstract type="html">保底消费金额（元）
+@property minMoney</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *minMoney</Declaration>
+			
+			
+			<Anchor>//api/name/minMoney</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRRateObject/minMoney</TokenIdentifier>
+			<Abstract type="html">保底消费金额（元）
+@property minMoney</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *minMoney</Declaration>
+			
+			
+			<Anchor>//api/name/minMoney</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/setChargeMethod:</TokenIdentifier>
+			<Abstract type="html">1字节计费方式 00 计时 17计量  16进制0x00,0x11
+@property chargeMethod</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *chargeMethod</Declaration>
+			
+			
+			<Anchor>//api/name/chargeMethod</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/chargeMethod</TokenIdentifier>
+			<Abstract type="html">1字节计费方式 00 计时 17计量  16进制0x00,0x11
+@property chargeMethod</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *chargeMethod</Declaration>
+			
+			
+			<Anchor>//api/name/chargeMethod</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRRateObject/chargeMethod</TokenIdentifier>
+			<Abstract type="html">1字节计费方式 00 计时 17计量  16进制0x00,0x11
+@property chargeMethod</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *chargeMethod</Declaration>
+			
+			
+			<Anchor>//api/name/chargeMethod</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/setMinChargeUnit:</TokenIdentifier>
+			<Abstract type="html">计费单位 大于0的脉冲数（计量） 6*N秒为单位（计时）
+@property minChargeUnit</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *minChargeUnit</Declaration>
+			
+			
+			<Anchor>//api/name/minChargeUnit</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/minChargeUnit</TokenIdentifier>
+			<Abstract type="html">计费单位 大于0的脉冲数（计量） 6*N秒为单位（计时）
+@property minChargeUnit</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *minChargeUnit</Declaration>
+			
+			
+			<Anchor>//api/name/minChargeUnit</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRRateObject/minChargeUnit</TokenIdentifier>
+			<Abstract type="html">计费单位 大于0的脉冲数（计量） 6*N秒为单位（计时）
+@property minChargeUnit</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *minChargeUnit</Declaration>
+			
+			
+			<Anchor>//api/name/minChargeUnit</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/setAutoDisConTime:</TokenIdentifier>
+			<Abstract type="html">自动断开时间（秒）没信号最大断开时间，以6秒为一个单位
+@property autoDisConTime</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *autoDisConTime</Declaration>
+			
+			
+			<Anchor>//api/name/autoDisConTime</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/autoDisConTime</TokenIdentifier>
+			<Abstract type="html">自动断开时间（秒）没信号最大断开时间，以6秒为一个单位
+@property autoDisConTime</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *autoDisConTime</Declaration>
+			
+			
+			<Anchor>//api/name/autoDisConTime</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/KRRateObject/autoDisConTime</TokenIdentifier>
+			<Abstract type="html">自动断开时间（秒）没信号最大断开时间，以6秒为一个单位
+@property autoDisConTime</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSNumber *autoDisConTime</Declaration>
+			
+			
+			<Anchor>//api/name/autoDisConTime</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/KRRateObject/writeData</TokenIdentifier>
+			<Abstract type="html">经过编码的二进制数据。可直接用于蓝牙通讯</Abstract>
+			<DeclaredIn>KRWMObject.h</DeclaredIn>
+			
+			<Declaration>- (NSData *)writeData</Declaration>
+			
+			<ReturnValue><Abstract type="html">按协议编码的二进制数据</Abstract></ReturnValue>
+			<Anchor>//api/name/writeData</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Constants/KRSyncResponseState.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/c/tdef/KRSyncResponseState</TokenIdentifier>
+			<Abstract type="html">@enum KRSyncResponseState</Abstract>
+			<DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+			
+			<NodeRef refid="8"/>
+		</Token>
+		
+		
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncResponseStateUnKnown</TokenIdentifier>
+            <Abstract type="html">未知类型</Abstract>
+            <Declaration>KRSyncResponseStateUnKnown</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="8"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncResponseStateUnsupported</TokenIdentifier>
+            <Abstract type="html">当前设备不支持蓝牙4.0</Abstract>
+            <Declaration>KRSyncResponseStateUnsupported</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="8"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncResponseStateUnauthorized</TokenIdentifier>
+            <Abstract type="html">蓝牙未授权</Abstract>
+            <Declaration>KRSyncResponseStateUnauthorized</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="8"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncResponseStateResetting</TokenIdentifier>
+            <Abstract type="html">蓝牙重置状态</Abstract>
+            <Declaration>KRSyncResponseStateResetting</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="8"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncResponseStateNotConnected</TokenIdentifier>
+            <Abstract type="html">蓝牙未连接</Abstract>
+            <Declaration>KRSyncResponseStateNotConnected</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="8"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncResponseStatePowerOff</TokenIdentifier>
+            <Abstract type="html">蓝牙关闭，主动关闭蓝牙时回调</Abstract>
+            <Declaration>KRSyncResponseStatePowerOff</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="8"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncResponseStateDisconnect</TokenIdentifier>
+            <Abstract type="html">蓝牙断开连接，主动或者被动断开都会调用</Abstract>
+            <Declaration>KRSyncResponseStateDisconnect</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="8"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncResponseStateParameterError</TokenIdentifier>
+            <Abstract type="html">同步参数错误</Abstract>
+            <Declaration>KRSyncResponseStateParameterError</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="8"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncResponseStateSynchronizing</TokenIdentifier>
+            <Abstract type="html">正在同步，蓝牙正在同步时发起同步操作会返回此结果</Abstract>
+            <Declaration>KRSyncResponseStateSynchronizing</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="8"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncResponseStateSuccess</TokenIdentifier>
+            <Abstract type="html">写数据响应成功</Abstract>
+            <Declaration>KRSyncResponseStateSuccess</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="8"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncResponseStateCheckSumError</TokenIdentifier>
+            <Abstract type="html">数据校验出错</Abstract>
+            <Declaration>KRSyncResponseStateCheckSumError</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="8"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/KRSyncResponseStateTimeOut</TokenIdentifier>
+            <Abstract type="html">同步响应超时</Abstract>
+            <Declaration>KRSyncResponseStateTimeOut</Declaration>
+            
+            <DeclaredIn>KRWMDefine.h</DeclaredIn>
+            
+            <NodeRef refid="8"/>
+        </Token>
+        
+        
+	</File>
+</Tokens>
